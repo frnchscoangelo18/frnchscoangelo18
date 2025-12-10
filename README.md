@@ -22,18 +22,21 @@
 ---
 
 ## 📊 GitHub Stats
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=frnchscoangelo18&show_icons=true&theme=radical)
 
-[![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=frnchscoangelo18)](https://github.com/frnchscoangelo18/github-readme-stats)
 ---
 
 ## 📫 Contact Me
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin&theme=light)](https://skillicons.dev)<br/>
+<a href="https://www.linkedin.com/in/franchesco-angeles-788400334/" target=blank>
+  <img src ="https://skillicons.dev/icons?i=linkedin" alt ="linkedin"/>
+</a>
+<a href="franchescoangelo1805@gmail.com" target=blank>
+  <img src ="https://skillicons.dev/icons?i=gmail" alt ="gmail"/>
+</a>
+<a href ="https://www.instagram.com/gelskrrttt/" target=blank>
+  <img src="https://skillicons.dev/icons?i=instagram" alt="instagram"/>
+</a>
 
-
-
-📧 Gmail: **franchescoangelo1805@gmail.com**   
-🔗 LinkedIn: *https://tinyurl.com/5n89xa5x*<br/>
-📘 Facebook: *https://www.facebook.com/anshell01*
 
 ---
 
