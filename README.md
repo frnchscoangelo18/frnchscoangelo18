@@ -26,10 +26,6 @@
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=frnchscoangelo18&show_icons=true&theme=radical" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=frnchscoangelo18&theme=radical" height="160" />
-</p>
-
 
 ---
 
